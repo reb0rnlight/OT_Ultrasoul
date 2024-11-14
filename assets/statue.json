@@ -1,0 +1,72 @@
+{
+    "internalname":"statue",
+    "displayname":"Statue",
+    "price":10,
+    "sizex":1,
+    "sizey":1,
+    "freeinput":false,
+    "showprogress":true,
+    "inputside": "null",
+    "outputside": "north",
+    "worktime":1,
+    "subtype":"producers",
+    "material":"soul",
+    "displaytype":"Ultrasoul",
+
+    "def:conveyor": {
+        "price":120,
+        "worktime": 0.5
+    },
+    "def:turnconveyor": {
+        "price":0,
+        "worktime": 0.5
+    },
+    "def:revturnconveyor": {
+        "price":0,
+        "worktime": 0.5
+    },
+    "def:twayconveyor": {
+        "price":0,
+        "worktime": 0.5
+    },
+    "def:othertwayconveyor": {
+        "price":0,
+        "worktime": 0.5
+    },
+    "def:otherothertwayconveyor": {
+        "price":0,
+        "worktime": 0.5
+    },
+    "def:threeoneconveyor": {
+        "price":0,
+        "worktime": 0.5
+    },
+    "def:router": {
+        "price":180,
+        "worktime": 1.5
+    },
+    "def:drill":{
+        "price":750,
+        "worktime":3
+    },
+    "def:lumber":{
+        "price":750,
+        "worktime":2
+    },
+    "def:furnace":{
+        "price":1000,
+        "worktime":5
+    },
+    "def:refiner":{
+        "price":1000,
+        "worktime":4
+    },
+    "def:constructor":{
+        "price":1500,
+        "worktime":6
+    },
+    "def:market":{
+        "price":5000,
+        "worktime":1
+    }
+}

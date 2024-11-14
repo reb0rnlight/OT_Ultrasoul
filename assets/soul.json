@@ -1,0 +1,74 @@
+{
+    "internalname": "soul",
+    "displayname": "Soul",
+    "bulletdata": {
+        "def:wood":{
+            "damage": 1
+        },
+        "def:stone":{
+            "damage": 1
+        },
+        "def:charcoal":{
+            "damage": 1
+        },
+        "def:ironore":{
+            "damage": 1
+        },
+        "def:copperore":{
+            "damage": 1
+        },
+        "def:copper":{
+            "damage": 1
+        },
+        "def:brick":{
+            "damage": 1
+        },
+        "def:cog":{
+            "damage": 1
+        },
+        "def:iron":{
+            "damage": 1
+        },
+        "def:bronze":{
+            "damage": 1
+        },
+        "def:steel":{
+            "damage": 1
+        },
+        "def:unprocessedsteel":{
+            "damage": 1
+        },
+
+        "def:charcoalbullet":{
+            "damage": 2
+        },
+        "def:woodbullet":{
+            "damage": 2.5
+        },
+        "def:stonebullet":{
+            "damage": 3
+        },
+        "def:copperbullet":{
+            "damage": 3.5
+        },
+        "def:brickbullet":{
+            "damage": 3
+        },
+        "def:ironbullet":{
+            "damage": 4
+        },
+        "def:bronzebullet":{
+            "damage": 5
+        },
+        "def:steampunkbullet":{
+            "damage": 4
+        },
+        "def:reinforcedbullet":{
+            "damage": 6
+        },
+        "def:superscatter":{
+            "damage": 7
+        }
+
+    }
+}
